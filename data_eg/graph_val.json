@@ -148,8 +148,8 @@
         },
         {
             "index":"G6",
-            "list_x":null,
-            "list_y":null
+            "list_x":["Vin", "Visite", "Autres ventes"],
+            "list_y":[90, 5, 5]
         },
         {
             "index":"G7",
