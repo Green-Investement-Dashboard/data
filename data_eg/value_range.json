@@ -101,9 +101,9 @@
         },
         {
             "index":"S2",
-            "Min":null,
-            "Max":null,
-            "Bin":null
+            "Min":0,
+            "Max":100,
+            "Bin":[10,80]
         },
         {
             "index":"S3",
