@@ -9,7 +9,7 @@ import pandas
 
 def create_json ():
     df = pandas.DataFrame(index=[],
-                          columns=['Nom', 'Lat', 'Long'])
+                          columns=['Nom', 'Fullname', 'Long'])
     
     df = df.set_index('Nom')
     df.loc['Agriculteur 1'] = [43.831961, 3.874051]
