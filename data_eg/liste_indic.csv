@@ -1,6 +1,6 @@
 ﻿Code input,Phénomène dangereux,Valeur,Critique, Description 
-E1,Canicule,,1,
-E2,Incendire,,1,
+E1,Risque de températures extrêmes,,1,
+E2,Risque d'incendie,,1,
 E3,Vent violent,,,
 E4,Grêle,,,
 E5,Glissement de terrain,,,
