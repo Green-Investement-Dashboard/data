@@ -7,11 +7,11 @@ E5,Glissement de terrain,,
 E6,Pollution des sols par substance très dangereuse,,
 E7,Composition de sol atypique,,
 E8,Manque d'infiltration,,
-E9,Pollution eau,,1
+E9,Pollution de l'eau,,1
 E10,Innondation,,
-E11,Incendie,,
+E11,Feu de forêts,,
 E12,Stress hydrique,,
-E13,Manque polénisation,,
+E13,Défaut de polénisation,,
 E14,Maladie (perte de biodiversité),,1
 E17,Gros ravageurs,,
 E18,Perte de surface exploitable,,
@@ -19,11 +19,11 @@ E19,Bonus résilience env,,
 G1,Eviction,,
 G2,Perte de savoir faire,,1
 G3,Manque d'adaptation rapide à un enviornement changeant,,
-G4,Manque de main d'œuvre permante qualifiée,,1
+G4,Manque de main d'œuvre permanente qualifiée,,1
 G5,Perte de compétitivité,,
 G8,Perte d'autonomie,,1
 S1,Perte de renomé ,,
-S2,Non possibilité d'export,,
+S2,Difficultés à l'export,,
 S3,Absence de clients suffisants,,
 S4,Difficulté d'appro en carburant,,1
 S5,Difficulté d'appro en produit phyto-sanitaire,,
