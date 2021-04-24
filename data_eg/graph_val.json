@@ -93,7 +93,7 @@
         },
         {
             "index":"S3",
-            "list_x":['Vente directe', 'Coopérative', 'Grande distribution'],
+            "list_x":["Vente directe", "Coopérative", "Grande distribution"],
             "list_y":[50, 40, 10]
         },
         {
