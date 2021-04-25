@@ -93,8 +93,8 @@
         },
         {
             "index":"S3",
-            "list_x":["Vente directe", "Coopérative", "Grande distribution"],
-            "list_y":[50, 40, 10]
+            "list_x":["Très satisfaisant", "Satisfaisant", "A améliorer"],
+            "list_y":[30, 40, 30]
         },
         {
             "index":"S4",
@@ -148,8 +148,8 @@
         },
         {
             "index":"G6",
-            "list_x":["Très satisfaisant", "Satisfaisant", "A améliorer"],
-            "list_y":[40, 50, 10]
+            "list_x":["Vente directe", "Coopérative", "Grande distribution"],
+            "list_y":[90, 5, 1]
         },
         {
             "index":"G7",
