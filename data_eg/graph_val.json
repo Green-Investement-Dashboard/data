@@ -148,8 +148,8 @@
         },
         {
             "index":"G6",
-            "list_x":["Vin", "Visite", "Autres ventes"],
-            "list_y":[90, 5, 5]
+            "list_x":["Très satisfaisant", "Satisfaisant", "A améliorer"],
+            "list_y":[40, 50, 10]
         },
         {
             "index":"G7",
