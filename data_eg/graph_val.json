@@ -6,6 +6,10 @@
                 "type":"string"
             },
             {
+                "name":"name",
+                "type":"string"
+            },
+            {
                 "name":"list_x",
                 "type":"string"
             },
@@ -164,6 +168,18 @@
             "index":"G10",
             "list_x":null,
             "list_y":null
+        },
+        {
+            "index":"F1",
+            "name":"EBITDA",
+            "list_x":["2017-01-01", "2018-01-01", "2019-01-01", "2020-01-01"],
+            "list_y":[1000, 800, 1200, 998]
+        },
+        {
+            "index":"F2",
+            "name":"Endetement",
+            "list_x":["2017-01-01", "2018-01-01", "2019-01-01", "2020-01-01"],
+            "list_y":[0.9, 1.5, 0.7, 0.5]
         }
     ]
 }
