@@ -6,14 +6,6 @@
                 "type":"string"
             },
             {
-                "name":"Min",
-                "type":"string"
-            },
-            {
-                "name":"Max",
-                "type":"string"
-            },
-            {
                 "name":"Bin",
                 "type":"string"
             }
@@ -26,180 +18,119 @@
     "data":[
         {
             "index":"E0",
-            "Min":0.0,
-            "Max":100.0,
-            "Bin":[
-                2,
-                3
-            ]
+            "Bin":[0, 72, 88, 100]
         },
         {
             "index":"E1",
-            "Min":null,
-            "Max":null,
-            "Bin":null
+            "Bin":[0, 40, 60, 100]
         },
         {
             "index":"E2",
-            "Min":null,
-            "Max":null,
-            "Bin":null
+            "Bin":[0, 40, 60, 100]
         },
         {
             "index":"E3",
-            "Min":null,
-            "Max":null,
-            "Bin":null
+            "Bin":[0, 40, 60, 100]
         },
         {
             "index":"E4",
-            "Min":null,
-            "Max":null,
-            "Bin":null
+            "Bin":[0, 40, 60, 100]
         },
         {
             "index":"E5",
-            "Min":null,
-            "Max":null,
-            "Bin":null
+            "Bin":[0, 40, 60, 100]
         },
         {
             "index":"E6",
-            "Min":null,
-            "Max":null,
-            "Bin":null
+            "Bin":[0, 40, 60, 100]
         },
         {
             "index":"E7",
-            "Min":null,
-            "Max":null,
-            "Bin":null
+            "Bin":[0, 40, 60, 100]
         },
         {
             "index":"E8",
-            "Min":null,
-            "Max":null,
-            "Bin":null
+            "Bin":[0, 40, 60, 100]
         },
         {
             "index":"E9",
-            "Min":null,
-            "Max":null,
-            "Bin":null
+            "Bin":[0, 40, 60, 100]
         },
         {
             "index":"S0",
-            "Min":null,
-            "Max":null,
-            "Bin":null
+            "Bin":[0, 45, 55, 100]
         },
         {
             "index":"S1",
-            "Min":0,
-            "Max":100,
-            "Bin":[20,70]
+            "Bin":[0,20,70,100]
         },
         {
             "index":"S2",
-            "Min":0,
-            "Max":100,
-            "Bin":[10,80]
+            "Bin":[0,10,80,100]
         },
         {
             "index":"S3",
-            "Min":null,
-            "Max":null,
-            "Bin":null
+            "Bin":[0, 40, 60, 100]
         },
         {
             "index":"S4",
-            "Min":null,
-            "Max":null,
-            "Bin":null
+            "Bin":[0, 40, 60, 100]
         },
         {
             "index":"S5",
-            "Min":null,
-            "Max":null,
-            "Bin":null
+            "Bin":[0, 40, 60, 100]
         },
         {
             "index":"S6",
-            "Min":null,
-            "Max":null,
-            "Bin":null
+            "Bin":[0, 40, 60, 100]
         },
         {
             "index":"S7",
-            "Min":null,
-            "Max":null,
-            "Bin":null
+            "Bin":[0, 40, 60, 100]
         },
         {
             "index":"G0",
-            "Min":null,
-            "Max":null,
-            "Bin":null
+            "Bin":[0, 72, 88, 100]
         },
         {
             "index":"G1",
-            "Min":null,
-            "Max":null,
-            "Bin":null
+            "Bin":[0, 40, 60, 100]
         },
         {
             "index":"G2",
-            "Min":null,
-            "Max":null,
-            "Bin":null
+            "Bin":[0, 40, 60, 100]
         },
         {
             "index":"G3",
-            "Min":null,
-            "Max":null,
-            "Bin":null
+            "Bin":[0, 40, 60, 100]
         },
         {
             "index":"G4",
-            "Min":null,
-            "Max":null,
-            "Bin":null
+            "Bin":[0, 40, 60, 100]
         },
         {
             "index":"G5",
-            "Min":null,
-            "Max":null,
-            "Bin":null
+            "Bin":[0, 40, 60, 100]
         },
         {
             "index":"G6",
-            "Min":null,
-            "Max":null,
-            "Bin":null
+            "Bin":[0, 40, 60, 100]
         },
         {
             "index":"G7",
-            "Min":null,
-            "Max":null,
-            "Bin":null
+            "Bin":[0, 40, 60, 100]
         },
         {
             "index":"G8",
-            "Min":null,
-            "Max":null,
-            "Bin":null
+            "Bin":[0, 40, 60, 100]
         },
         {
             "index":"G9",
-            "Min":0,
-            "Max":100,
-            "Bin":[20,50]
+            "Bin":[0,20,50,100]
         },
         {
             "index":"G10",
-            "Min":null,
-            "Max":null,
-            "Bin":null
+            "Bin":[0, 40, 60, 100]
         }
     ]
 }

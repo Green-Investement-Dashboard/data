@@ -22,14 +22,8 @@
     "data":[
         {
             "index":"E0",
-            "list_x":[
-                2,
-                0
-            ],
-            "list_y":[
-                2,
-                0
-            ]
+            "list_x":[],
+            "list_y":[60]
         },
         {
             "index":"E1",
@@ -78,18 +72,18 @@
         },
         {
             "index":"S0",
-            "list_x":null,
-            "list_y":null
+            "list_x":[],
+            "list_y":[10]
         },
         {
             "index":"S1",
-            "list_x":null,
-            "list_y":null
+            "list_x":[],
+            "list_y":[60]
         },
         {
             "index":"S2",
-            "list_x":null,
-            "list_y":null
+            "list_x":[],
+            "list_y":[10]
         },
         {
             "index":"S3",
@@ -118,8 +112,8 @@
         },
         {
             "index":"G0",
-            "list_x":null,
-            "list_y":null
+            "list_x":[],
+            "list_y":[90]
         },
         {
             "index":"G1",
@@ -163,8 +157,8 @@
         },
         {
             "index":"G9",
-            "list_x":null,
-            "list_y":null
+            "list_x":[],
+            "list_y":[30]
         },
         {
             "index":"G10",
